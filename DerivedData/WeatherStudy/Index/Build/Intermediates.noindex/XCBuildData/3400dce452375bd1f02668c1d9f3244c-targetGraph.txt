@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+WeatherStudy in WeatherStudy, no dependencies
+WeatherStudy in WeatherStudy, no dependencies

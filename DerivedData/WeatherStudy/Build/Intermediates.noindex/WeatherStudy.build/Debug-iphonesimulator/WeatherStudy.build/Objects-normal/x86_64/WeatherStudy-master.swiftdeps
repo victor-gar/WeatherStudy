@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1659270924, 272567987]
+build_end_time: [1659270924, 932734966]
+inputs:
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/AppDelegate.swift": [1659102755, 249537944]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/City/AllCities/AllCitiesController.swift": [1659090972, 90888977]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/City/AllCities/CityCell.swift": [1659078337, 238512754]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/City/Model/ModelCity.swift": [1659097706, 730676651]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/City/MyCities/MyCitiesController.swift": [1659096633, 968491554]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/Custom UI components/GradientView.swift": [1659096788, 231857299]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/Custom UI components/WeekDayPicker.swift": [1659096855, 254247665]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/LoginFormController.swift": [1659096855, 254717826]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/SceneDelegate.swift": [1659102755, 253785848]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/Weather/WeatherCell.swift": [1658901470, 833877086]
+  "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy/Weather/WeatherViewController.swift": [1659097419, 990060567]

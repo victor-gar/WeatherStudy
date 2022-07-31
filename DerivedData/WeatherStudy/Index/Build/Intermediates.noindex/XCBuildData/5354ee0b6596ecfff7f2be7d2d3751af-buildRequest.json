@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "94b9c9066c7735efd397e8ed69345c6fdb1c428a2641c86c00537bd70fe87f8e"
+    }
+  ],
+  "containerPath" : "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/WeatherStudy.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/DerivedData/WeatherStudy/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/DerivedData/WeatherStudy/Index/Build/Products",
+      "derivedDataPath" : "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/DerivedData/WeatherStudy/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/DerivedData/WeatherStudy/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/DerivedData/WeatherStudy/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/victorgaritskyu/Desktop/Uikit/New swift/WeatherStudy/DerivedData/WeatherStudy/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

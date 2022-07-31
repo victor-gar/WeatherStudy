@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>078FF05A-0C5E-4D80-8385-EC4244246105</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>078FF05A-0C5E-4D80-8385-EC4244246105.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>WeatherStudy-agwrkabtzzwdlzbnpwbpnrcwwsvl</string>
+			<key>timeStartedRecording</key>
+			<real>680963727.27666605</real>
+			<key>timeStoppedRecording</key>
+			<real>680963727.37023699</real>
+			<key>title</key>
+			<string>Build target WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>078FF05A-0C5E-4D80-8385-EC4244246105</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>
