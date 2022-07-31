@@ -47,9 +47,9 @@ class MyCitiesController: UITableViewController {
         cell.cityImage.layer.masksToBounds = false
         cell.cityImage.contentMode = .scaleToFill
         
-        cell.cityImage.layer.cornerRadius = 40
-        cell.cityImage.layer.borderWidth = 0.5
-        cell.cityImage.layer.borderColor = UIColor.black.cgColor
+        cell.cityImage.layer.cornerRadius = cell.cityImage.frame.width / 2
+        cell.cityImage.layer.borderWidth = 1
+        cell.cityImage.layer.borderColor = UIColor.white.cgColor
       
         cell.cityImage.layer.shadowRadius = 10
         cell.cityImage.layer.shadowOpacity = 0.7

@@ -18,6 +18,9 @@ class WeatherViewController: UIViewController{
     
     @IBOutlet weak var flowDelegate: UICollectionViewDelegateFlowLayout!
     
+    
+    
+    
     var selectedCity: City?
     
     var weatherCounter = 15 {

@@ -332,7 +332,22 @@ SWIFT_CLASS("_TtC12WeatherStudy11WeatherCell")
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified weather;
 @property (nonatomic, weak) IBOutlet UIImageView * _Null_unspecified icon;
 @property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified time;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified containerView;
+@property (nonatomic, weak) IBOutlet UIView * _Null_unspecified shadowView;
+- (void)layoutSubviews;
 - (nonnull instancetype)initWithFrame:(CGRect)frame OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+@class UICollectionViewLayoutAttributes;
+
+SWIFT_CLASS("_TtC12WeatherStudy27WeatherCollectionViewLayout")
+@interface WeatherCollectionViewLayout : UICollectionViewLayout
+- (void)prepareLayout;
+- (NSArray<UICollectionViewLayoutAttributes *> * _Nullable)layoutAttributesForElementsInRect:(CGRect)rect SWIFT_WARN_UNUSED_RESULT;
+- (UICollectionViewLayoutAttributes * _Nullable)layoutAttributesForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
+@property (nonatomic, readonly) CGSize collectionViewContentSize;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
@@ -350,7 +365,6 @@ SWIFT_CLASS("_TtC12WeatherStudy21WeatherViewController")
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
 @end
 
-@class UICollectionViewLayout;
 
 @interface WeatherViewController (SWIFT_EXTENSION(WeatherStudy)) <UICollectionViewDelegateFlowLayout>
 - (CGSize)collectionView:(UICollectionView * _Nonnull)collectionView layout:(UICollectionViewLayout * _Nonnull)collectionViewLayout sizeForItemAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;

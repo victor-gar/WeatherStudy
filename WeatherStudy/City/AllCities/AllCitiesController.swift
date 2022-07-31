@@ -37,10 +37,10 @@ class AllCitiesController: UITableViewController {
         cell.cityImage.clipsToBounds = true
         cell.cityImage.layer.cornerRadius = 32
         cell.cityImage.layer.borderWidth = 2
-        cell.cityImage.layer.borderColor = UIColor.gray.cgColor
+        cell.cityImage.layer.borderColor = UIColor.white.cgColor
         cell.cityImage.layer.shadowRadius = 3
         cell.cityImage.layer.shadowColor = UIColor.black.cgColor
-        cell.cityImage.layer.cornerRadius = 40 / 2
+        cell.cityImage.layer.cornerRadius = cell.cityImage.frame.width / 2
         cell.cityImage.contentMode = .scaleAspectFill
         return cell
     }

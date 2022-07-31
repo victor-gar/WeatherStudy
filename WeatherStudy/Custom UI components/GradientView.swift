@@ -63,4 +63,7 @@ import UIKit
     func updateEndPoint(){
         self.gradientLayer.endPoint = endPoint
 }
+    
+    @IBDesignable class GradientViews : UIView{
+}
 }

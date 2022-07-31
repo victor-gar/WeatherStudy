@@ -21,6 +21,7 @@
 		168352FE2896ACA400F7C8D4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 168352FC2896ACA400F7C8D4 /* Main.storyboard */; };
 		168353042896AE3200F7C8D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168353032896AE3200F7C8D4 /* AppDelegate.swift */; };
 		168353062896AE3E00F7C8D4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168353052896AE3E00F7C8D4 /* SceneDelegate.swift */; };
+		16F54A922896C60200505F69 /* WeatherCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16F54A912896C60200505F69 /* WeatherCollectionViewLayout.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,6 +41,7 @@
 		168352FC2896ACA400F7C8D4 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		168353032896AE3200F7C8D4 /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		168353052896AE3E00F7C8D4 /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		16F54A912896C60200505F69 /* WeatherCollectionViewLayout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherCollectionViewLayout.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 			children = (
 				168352EA2896AC7E00F7C8D4 /* WeatherCell.swift */,
 				168352EB2896AC7E00F7C8D4 /* WeatherViewController.swift */,
+				16F54A912896C60200505F69 /* WeatherCollectionViewLayout.swift */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
@@ -213,6 +216,7 @@
 				168352F12896AC7E00F7C8D4 /* AllCitiesController.swift in Sources */,
 				168352F52896AC7E00F7C8D4 /* WeatherViewController.swift in Sources */,
 				168352F72896AC7E00F7C8D4 /* GradientView.swift in Sources */,
+				16F54A922896C60200505F69 /* WeatherCollectionViewLayout.swift in Sources */,
 				168352F82896AC7E00F7C8D4 /* WeekDayPicker.swift in Sources */,
 				168352F02896AC7E00F7C8D4 /* CityCell.swift in Sources */,
 				168352F42896AC7E00F7C8D4 /* WeatherCell.swift in Sources */,

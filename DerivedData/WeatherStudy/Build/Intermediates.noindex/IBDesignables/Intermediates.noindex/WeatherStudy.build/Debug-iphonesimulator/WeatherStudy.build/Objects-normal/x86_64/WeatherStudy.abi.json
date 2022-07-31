@@ -2191,6 +2191,162 @@
           "funcSelfKind": "NonMutating"
         },
         {
+          "kind": "TypeDecl",
+          "name": "GradientViews",
+          "printedName": "GradientViews",
+          "children": [
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init(frame:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "GradientViews",
+                  "printedName": "WeatherStudy.GradientView.GradientViews",
+                  "usr": "s:12WeatherStudy12GradientViewC0C5ViewsC"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "CGRect",
+                  "printedName": "CoreGraphics.CGRect",
+                  "usr": "c:@S@CGRect"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:12WeatherStudy12GradientViewC0C5ViewsC5frameAESo6CGRectV_tcfc",
+              "mangledName": "$s12WeatherStudy12GradientViewC0C5ViewsC5frameAESo6CGRectV_tcfc",
+              "moduleName": "WeatherStudy",
+              "overriding": true,
+              "implicit": true,
+              "objc_name": "initWithFrame:",
+              "declAttributes": [
+                "Dynamic",
+                "ObjC",
+                "Custom",
+                "Override"
+              ],
+              "init_kind": "Designated"
+            },
+            {
+              "kind": "Constructor",
+              "name": "init",
+              "printedName": "init(coder:)",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Optional",
+                  "printedName": "WeatherStudy.GradientView.GradientViews?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "GradientViews",
+                      "printedName": "WeatherStudy.GradientView.GradientViews",
+                      "usr": "s:12WeatherStudy12GradientViewC0C5ViewsC"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "NSCoder",
+                  "printedName": "Foundation.NSCoder",
+                  "usr": "c:objc(cs)NSCoder"
+                }
+              ],
+              "declKind": "Constructor",
+              "usr": "s:12WeatherStudy12GradientViewC0C5ViewsC5coderAESgSo7NSCoderC_tcfc",
+              "mangledName": "$s12WeatherStudy12GradientViewC0C5ViewsC5coderAESgSo7NSCoderC_tcfc",
+              "moduleName": "WeatherStudy",
+              "overriding": true,
+              "implicit": true,
+              "objc_name": "initWithCoder:",
+              "declAttributes": [
+                "Dynamic",
+                "ObjC",
+                "Custom",
+                "Required"
+              ],
+              "init_kind": "Designated"
+            }
+          ],
+          "declKind": "Class",
+          "usr": "s:12WeatherStudy12GradientViewC0C5ViewsC",
+          "mangledName": "$s12WeatherStudy12GradientViewC0C5ViewsC",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "IBDesignable",
+            "ObjC"
+          ],
+          "superclassUsr": "c:objc(cs)UIView",
+          "inheritsConvenienceInitializers": true,
+          "superclassNames": [
+            "UIKit.UIView",
+            "UIKit.UIResponder",
+            "ObjectiveC.NSObject"
+          ],
+          "conformances": [
+            {
+              "kind": "Conformance",
+              "name": "Equatable",
+              "printedName": "Equatable",
+              "usr": "s:SQ",
+              "mangledName": "$sSQ"
+            },
+            {
+              "kind": "Conformance",
+              "name": "Hashable",
+              "printedName": "Hashable",
+              "usr": "s:SH",
+              "mangledName": "$sSH"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CVarArg",
+              "printedName": "CVarArg",
+              "usr": "s:s7CVarArgP",
+              "mangledName": "$ss7CVarArgP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "_KeyValueCodingAndObservingPublishing",
+              "printedName": "_KeyValueCodingAndObservingPublishing",
+              "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+              "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "_KeyValueCodingAndObserving",
+              "printedName": "_KeyValueCodingAndObserving",
+              "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+              "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CustomStringConvertible",
+              "printedName": "CustomStringConvertible",
+              "usr": "s:s23CustomStringConvertibleP",
+              "mangledName": "$ss23CustomStringConvertibleP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "CustomDebugStringConvertible",
+              "printedName": "CustomDebugStringConvertible",
+              "usr": "s:s28CustomDebugStringConvertibleP",
+              "mangledName": "$ss28CustomDebugStringConvertibleP"
+            },
+            {
+              "kind": "Conformance",
+              "name": "__DefaultCustomPlaygroundQuickLookable",
+              "printedName": "__DefaultCustomPlaygroundQuickLookable",
+              "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
+              "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+            }
+          ]
+        },
+        {
           "kind": "Constructor",
           "name": "init",
           "printedName": "init(frame:)",
@@ -2338,6 +2494,674 @@
           "printedName": "__DefaultCustomPlaygroundQuickLookable",
           "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
           "mangledName": "$ss38__DefaultCustomPlaygroundQuickLookableP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "WeatherStudy",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "WeatherStudy"
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "WeatherCollectionViewLayout",
+      "printedName": "WeatherCollectionViewLayout",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "cacheAttributes",
+          "printedName": "cacheAttributes",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Dictionary",
+              "printedName": "[Foundation.IndexPath : UIKit.UICollectionViewLayoutAttributes]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "IndexPath",
+                  "printedName": "Foundation.IndexPath",
+                  "usr": "s:10Foundation9IndexPathV"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "UICollectionViewLayoutAttributes",
+                  "printedName": "UIKit.UICollectionViewLayoutAttributes",
+                  "usr": "c:objc(cs)UICollectionViewLayoutAttributes"
+                }
+              ],
+              "usr": "s:SD"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12WeatherStudy0A20CollectionViewLayoutC15cacheAttributesSDy10Foundation9IndexPathVSo012UICollectiondeG0CGvp",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC15cacheAttributesSDy10Foundation9IndexPathVSo012UICollectiondeG0CGvp",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 0,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Foundation.IndexPath : UIKit.UICollectionViewLayoutAttributes]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "IndexPath",
+                      "printedName": "Foundation.IndexPath",
+                      "usr": "s:10Foundation9IndexPathV"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UICollectionViewLayoutAttributes",
+                      "printedName": "UIKit.UICollectionViewLayoutAttributes",
+                      "usr": "c:objc(cs)UICollectionViewLayoutAttributes"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A20CollectionViewLayoutC15cacheAttributesSDy10Foundation9IndexPathVSo012UICollectiondeG0CGvg",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC15cacheAttributesSDy10Foundation9IndexPathVSo012UICollectiondeG0CGvg",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Dictionary",
+                  "printedName": "[Foundation.IndexPath : UIKit.UICollectionViewLayoutAttributes]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "IndexPath",
+                      "printedName": "Foundation.IndexPath",
+                      "usr": "s:10Foundation9IndexPathV"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UICollectionViewLayoutAttributes",
+                      "printedName": "UIKit.UICollectionViewLayoutAttributes",
+                      "usr": "c:objc(cs)UICollectionViewLayoutAttributes"
+                    }
+                  ],
+                  "usr": "s:SD"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A20CollectionViewLayoutC15cacheAttributesSDy10Foundation9IndexPathVSo012UICollectiondeG0CGvs",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC15cacheAttributesSDy10Foundation9IndexPathVSo012UICollectiondeG0CGvs",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A20CollectionViewLayoutC15cacheAttributesSDy10Foundation9IndexPathVSo012UICollectiondeG0CGvM",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC15cacheAttributesSDy10Foundation9IndexPathVSo012UICollectiondeG0CGvM",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "columsCount",
+          "printedName": "columsCount",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12WeatherStudy0A20CollectionViewLayoutC11columsCountSivp",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC11columsCountSivp",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A20CollectionViewLayoutC11columsCountSivg",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC11columsCountSivg",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A20CollectionViewLayoutC11columsCountSivs",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC11columsCountSivs",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A20CollectionViewLayoutC11columsCountSivM",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC11columsCountSivM",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "cellHeight",
+          "printedName": "cellHeight",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CGFloat",
+              "printedName": "CoreGraphics.CGFloat",
+              "usr": "s:12CoreGraphics7CGFloatV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12WeatherStudy0A20CollectionViewLayoutC10cellHeight12CoreGraphics7CGFloatVvp",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC10cellHeight12CoreGraphics7CGFloatVvp",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage"
+          ],
+          "fixedbinaryorder": 2,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "CGFloat",
+                  "printedName": "CoreGraphics.CGFloat",
+                  "usr": "s:12CoreGraphics7CGFloatV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A20CollectionViewLayoutC10cellHeight12CoreGraphics7CGFloatVvg",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC10cellHeight12CoreGraphics7CGFloatVvg",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "CGFloat",
+                  "printedName": "CoreGraphics.CGFloat",
+                  "usr": "s:12CoreGraphics7CGFloatV"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A20CollectionViewLayoutC10cellHeight12CoreGraphics7CGFloatVvs",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC10cellHeight12CoreGraphics7CGFloatVvs",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A20CollectionViewLayoutC10cellHeight12CoreGraphics7CGFloatVvM",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC10cellHeight12CoreGraphics7CGFloatVvM",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "totalCellsHeight",
+          "printedName": "totalCellsHeight",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CGFloat",
+              "printedName": "CoreGraphics.CGFloat",
+              "usr": "s:12CoreGraphics7CGFloatV"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12WeatherStudy0A20CollectionViewLayoutC16totalCellsHeight33_316FB7967E8370BE44B943CD047A71C4LL12CoreGraphics7CGFloatVvp",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC16totalCellsHeight33_316FB7967E8370BE44B943CD047A71C4LL12CoreGraphics7CGFloatVvp",
+          "moduleName": "WeatherStudy",
+          "isInternal": true,
+          "declAttributes": [
+            "Custom",
+            "HasInitialValue",
+            "HasStorage",
+            "AccessControl"
+          ],
+          "fixedbinaryorder": 3,
+          "hasStorage": true
+        },
+        {
+          "kind": "Function",
+          "name": "prepare",
+          "printedName": "prepare()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout(im)prepareLayout",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC7prepareyyF",
+          "moduleName": "WeatherStudy",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "prepareLayout",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "layoutAttributesForElements",
+          "printedName": "layoutAttributesForElements(in:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "[UIKit.UICollectionViewLayoutAttributes]?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Array",
+                  "printedName": "[UIKit.UICollectionViewLayoutAttributes]",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UICollectionViewLayoutAttributes",
+                      "printedName": "UIKit.UICollectionViewLayoutAttributes",
+                      "usr": "c:objc(cs)UICollectionViewLayoutAttributes"
+                    }
+                  ],
+                  "usr": "s:Sa"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "CGRect",
+              "printedName": "CoreGraphics.CGRect",
+              "usr": "c:@S@CGRect"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout(im)layoutAttributesForElementsInRect:",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC27layoutAttributesForElements2inSaySo012UICollectiondeG0CGSgSo6CGRectV_tF",
+          "moduleName": "WeatherStudy",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "layoutAttributesForElementsInRect:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "layoutAttributesForItem",
+          "printedName": "layoutAttributesForItem(at:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "UIKit.UICollectionViewLayoutAttributes?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "UICollectionViewLayoutAttributes",
+                  "printedName": "UIKit.UICollectionViewLayoutAttributes",
+                  "usr": "c:objc(cs)UICollectionViewLayoutAttributes"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "IndexPath",
+              "printedName": "Foundation.IndexPath",
+              "usr": "s:10Foundation9IndexPathV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout(im)layoutAttributesForItemAtIndexPath:",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC23layoutAttributesForItem2atSo012UICollectiondeG0CSg10Foundation9IndexPathV_tF",
+          "moduleName": "WeatherStudy",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "layoutAttributesForItemAtIndexPath:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Var",
+          "name": "collectionViewContentSize",
+          "printedName": "collectionViewContentSize",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "CGSize",
+              "printedName": "CoreGraphics.CGSize",
+              "usr": "c:@S@CGSize"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout(py)collectionViewContentSize",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC010collectionD11ContentSizeSo6CGSizeVvp",
+          "moduleName": "WeatherStudy",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "collectionViewContentSize",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "CGSize",
+                  "printedName": "CoreGraphics.CGSize",
+                  "usr": "c:@S@CGSize"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout(im)collectionViewContentSize",
+              "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC010collectionD11ContentSizeSo6CGSizeVvg",
+              "moduleName": "WeatherStudy",
+              "overriding": true,
+              "isOpen": true,
+              "objc_name": "collectionViewContentSize",
+              "declAttributes": [
+                "Dynamic",
+                "ObjC",
+                "Custom"
+              ],
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeatherCollectionViewLayout",
+              "printedName": "WeatherStudy.WeatherCollectionViewLayout",
+              "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout(im)init",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutCACycfc",
+          "moduleName": "WeatherStudy",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "init",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(coder:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Optional",
+              "printedName": "WeatherStudy.WeatherCollectionViewLayout?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "WeatherCollectionViewLayout",
+                  "printedName": "WeatherStudy.WeatherCollectionViewLayout",
+                  "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout"
+                }
+              ],
+              "usr": "s:Sq"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "NSCoder",
+              "printedName": "Foundation.NSCoder",
+              "usr": "c:objc(cs)NSCoder"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout(im)initWithCoder:",
+          "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC5coderACSgSo7NSCoderC_tcfc",
+          "moduleName": "WeatherStudy",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "initWithCoder:",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Required"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@WeatherStudy@objc(cs)WeatherCollectionViewLayout",
+      "mangledName": "$s12WeatherStudy0A20CollectionViewLayoutC",
+      "moduleName": "WeatherStudy",
+      "isOpen": true,
+      "declAttributes": [
+        "Custom",
+        "ObjC"
+      ],
+      "superclassUsr": "c:objc(cs)UICollectionViewLayout",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "UIKit.UICollectionViewLayout",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
         }
       ]
     },
@@ -4059,6 +4883,264 @@
               "accessorKind": "_modify"
             }
           ]
+        },
+        {
+          "kind": "Var",
+          "name": "containerView",
+          "printedName": "containerView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "UIKit.UIView?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@WeatherStudy@objc(cs)WeatherCell(py)containerView",
+          "mangledName": "$s12WeatherStudy0A4CellC13containerViewSo6UIViewCSgvp",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Custom",
+            "HasStorage",
+            "ReferenceOwnership",
+            "IBOutlet",
+            "ObjC"
+          ],
+          "fixedbinaryorder": 3,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UIView?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIView",
+                      "printedName": "UIKit.UIView",
+                      "usr": "c:objc(cs)UIView"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)WeatherCell(im)containerView",
+              "mangledName": "$s12WeatherStudy0A4CellC13containerViewSo6UIViewCSgvg",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UIView?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIView",
+                      "printedName": "UIKit.UIView",
+                      "usr": "c:objc(cs)UIView"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)WeatherCell(im)setContainerView:",
+              "mangledName": "$s12WeatherStudy0A4CellC13containerViewSo6UIViewCSgvs",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A4CellC13containerViewSo6UIViewCSgvM",
+              "mangledName": "$s12WeatherStudy0A4CellC13containerViewSo6UIViewCSgvM",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "shadowView",
+          "printedName": "shadowView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "UIKit.UIView?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@WeatherStudy@objc(cs)WeatherCell(py)shadowView",
+          "mangledName": "$s12WeatherStudy0A4CellC10shadowViewSo6UIViewCSgvp",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Custom",
+            "HasStorage",
+            "ReferenceOwnership",
+            "IBOutlet",
+            "ObjC"
+          ],
+          "fixedbinaryorder": 4,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UIView?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIView",
+                      "printedName": "UIKit.UIView",
+                      "usr": "c:objc(cs)UIView"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)WeatherCell(im)shadowView",
+              "mangledName": "$s12WeatherStudy0A4CellC10shadowViewSo6UIViewCSgvg",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UIView?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UIView",
+                      "printedName": "UIKit.UIView",
+                      "usr": "c:objc(cs)UIView"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)WeatherCell(im)setShadowView:",
+              "mangledName": "$s12WeatherStudy0A4CellC10shadowViewSo6UIViewCSgvs",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy0A4CellC10shadowViewSo6UIViewCSgvM",
+              "mangledName": "$s12WeatherStudy0A4CellC10shadowViewSo6UIViewCSgvM",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "layoutSubviews",
+          "printedName": "layoutSubviews()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "c:@M@WeatherStudy@objc(cs)WeatherCell(im)layoutSubviews",
+          "mangledName": "$s12WeatherStudy0A4CellC14layoutSubviewsyyF",
+          "moduleName": "WeatherStudy",
+          "overriding": true,
+          "isOpen": true,
+          "objc_name": "layoutSubviews",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Custom",
+            "Override"
+          ],
+          "funcSelfKind": "NonMutating"
         },
         {
           "kind": "Constructor",
