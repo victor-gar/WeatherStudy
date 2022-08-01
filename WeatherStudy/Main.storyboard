@@ -110,7 +110,8 @@
                             </scrollView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="gF2-C7-pPG"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <color key="backgroundColor" systemColor="linkColor"/>
+                        <color key="tintColor" systemColor="labelColor"/>
                         <constraints>
                             <constraint firstItem="Ljd-7o-k3t" firstAttribute="trailing" secondItem="gF2-C7-pPG" secondAttribute="trailing" id="QJE-Bb-eDN"/>
                             <constraint firstItem="Ljd-7o-k3t" firstAttribute="leading" secondItem="gF2-C7-pPG" secondAttribute="leading" id="d6I-l2-wOb"/>
@@ -129,7 +130,10 @@
                     <navigationItem key="navigationItem" id="hJO-ay-Ysr"/>
                     <connections>
                         <outlet property="loginInput" destination="woa-jx-erT" id="LB0-Mg-Od3"/>
+                        <outlet property="loginTitleView" destination="K92-nd-444" id="gi0-b5-4da"/>
+                        <outlet property="mainView" destination="Qyv-tg-DzM" id="BOh-c2-7O6"/>
                         <outlet property="passwordInput" destination="Abu-1L-qDL" id="Ldb-7t-odk"/>
+                        <outlet property="passwordTitleView" destination="CgA-Eo-Ggy" id="nJp-PV-Ejj"/>
                         <outlet property="scrollView" destination="Ljd-7o-k3t" id="wfo-yT-bNi"/>
                     </connections>
                 </viewController>
@@ -485,6 +489,12 @@
         <image name="Nur-Sultan" width="2000" height="1335"/>
         <image name="cloud.sun.fill" catalog="system" width="128" height="95"/>
         <image name="square.and.arrow.down" catalog="system" width="121" height="128"/>
+        <systemColor name="labelColor">
+            <color white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="linkColor">
+            <color red="0.0" green="0.47843137254901963" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
         </systemColor>

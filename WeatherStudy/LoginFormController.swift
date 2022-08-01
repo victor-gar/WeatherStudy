@@ -9,9 +9,14 @@ import UIKit
 
 class LoginFormController: UIViewController {
 
+    @IBOutlet weak var loginTitleView: UILabel!
+    @IBOutlet weak var passwordTitleView: UILabel!
+    
     @IBOutlet weak var loginInput: UITextField!
     @IBOutlet weak var passwordInput: UITextField!
     @IBOutlet weak var scrollView: UIScrollView!
+    @IBOutlet var mainView: GradientView!
+    
     @IBAction func loginButtonPressed(_ sender: Any) {
     }
     
@@ -60,8 +65,14 @@ class LoginFormController: UIViewController {
     }
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.view.backgroundColor = UIColor.blue
+           animateTitleAppearing()
         let hideKeyboadGesture = UITapGestureRecognizer(target: self, action: #selector(hideKeyboard))
         scrollView?.addGestureRecognizer(hideKeyboadGesture)
+        
+        
+        animateTitlesAppearing()
+        
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -80,5 +91,26 @@ class LoginFormController: UIViewController {
     
     @objc func hideKeyboard() {
         self.scrollView?.endEditing(true)
+    }
+    
+    func animateTitlesAppearing() {
+        let offset = mainView.bounds.width
+       loginTitleView.transform = CGAffineTransform(translationX: -offset, y: 0)
+        passwordTitleView.transform = CGAffineTransform(translationX: offset, y: 0)
+        
+        UIView.animate(withDuration: 1, delay: 1, options: .curveEaseOut , animations: {
+            self.loginTitleView.transform = .identity
+            self.passwordTitleView.transform = .identity
+        }, completion: nil)
+        
+    }
+    
+    func animateTitleAppearing() {
+        self.mainView.transform = CGAffineTransform(translationX: 0, y: -self.view.bounds.height / 0.1)
+        UIView.animate(withDuration: 1, delay: 2, usingSpringWithDamping: 0.9, initialSpringVelocity: 1,
+                       options: .curveEaseOut,
+                       animations: {
+            self.mainView.transform = .identity
+        },completion: nil)
     }
 }

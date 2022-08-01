@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>4943382E-FABD-4D72-8A0F-DE6BB64D481D</key>
+		<key>142BEEF9-976F-4872-A826-41C37614063F</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>4943382E-FABD-4D72-8A0F-DE6BB64D481D.xcactivitylog</string>
+			<string>142BEEF9-976F-4872-A826-41C37614063F.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -26,13 +26,13 @@
 			<key>signature</key>
 			<string>WeatherStudy-agwrkabtzzwdlzbnpwbpnrcwwsvl</string>
 			<key>timeStartedRecording</key>
-			<real>680971893.20590103</real>
+			<real>681047843.61376405</real>
 			<key>timeStoppedRecording</key>
-			<real>680971894.69867098</real>
+			<real>681047844.19922805</real>
 			<key>title</key>
 			<string>Build target WeatherStudy</string>
 			<key>uniqueIdentifier</key>
-			<string>4943382E-FABD-4D72-8A0F-DE6BB64D481D</string>
+			<string>142BEEF9-976F-4872-A826-41C37614063F</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

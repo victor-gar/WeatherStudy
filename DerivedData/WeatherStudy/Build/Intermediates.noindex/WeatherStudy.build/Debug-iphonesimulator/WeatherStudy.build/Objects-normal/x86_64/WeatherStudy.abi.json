@@ -4523,6 +4523,23 @@
     },
     {
       "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "WeatherStudy",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "WeatherStudy"
+    },
+    {
+      "kind": "Import",
       "name": "UIKit",
       "printedName": "UIKit",
       "declKind": "Import",
@@ -6258,6 +6275,238 @@
       "children": [
         {
           "kind": "Var",
+          "name": "loginTitleView",
+          "printedName": "loginTitleView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "UIKit.UILabel?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@WeatherStudy@objc(cs)LoginFormController(py)loginTitleView",
+          "mangledName": "$s12WeatherStudy19LoginFormControllerC14loginTitleViewSo7UILabelCSgvp",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Custom",
+            "HasStorage",
+            "ReferenceOwnership",
+            "IBOutlet",
+            "ObjC"
+          ],
+          "fixedbinaryorder": 0,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UILabel?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UILabel",
+                      "printedName": "UIKit.UILabel",
+                      "usr": "c:objc(cs)UILabel"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)LoginFormController(im)loginTitleView",
+              "mangledName": "$s12WeatherStudy19LoginFormControllerC14loginTitleViewSo7UILabelCSgvg",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UILabel?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UILabel",
+                      "printedName": "UIKit.UILabel",
+                      "usr": "c:objc(cs)UILabel"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)LoginFormController(im)setLoginTitleView:",
+              "mangledName": "$s12WeatherStudy19LoginFormControllerC14loginTitleViewSo7UILabelCSgvs",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy19LoginFormControllerC14loginTitleViewSo7UILabelCSgvM",
+              "mangledName": "$s12WeatherStudy19LoginFormControllerC14loginTitleViewSo7UILabelCSgvM",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "passwordTitleView",
+          "printedName": "passwordTitleView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "WeakStorage",
+              "printedName": "UIKit.UILabel?"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@WeatherStudy@objc(cs)LoginFormController(py)passwordTitleView",
+          "mangledName": "$s12WeatherStudy19LoginFormControllerC17passwordTitleViewSo7UILabelCSgvp",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Custom",
+            "HasStorage",
+            "ReferenceOwnership",
+            "IBOutlet",
+            "ObjC"
+          ],
+          "fixedbinaryorder": 1,
+          "ownership": 1,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UILabel?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UILabel",
+                      "printedName": "UIKit.UILabel",
+                      "usr": "c:objc(cs)UILabel"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)LoginFormController(im)passwordTitleView",
+              "mangledName": "$s12WeatherStudy19LoginFormControllerC17passwordTitleViewSo7UILabelCSgvg",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "UIKit.UILabel?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "UILabel",
+                      "printedName": "UIKit.UILabel",
+                      "usr": "c:objc(cs)UILabel"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)LoginFormController(im)setPasswordTitleView:",
+              "mangledName": "$s12WeatherStudy19LoginFormControllerC17passwordTitleViewSo7UILabelCSgvs",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy19LoginFormControllerC17passwordTitleViewSo7UILabelCSgvM",
+              "mangledName": "$s12WeatherStudy19LoginFormControllerC17passwordTitleViewSo7UILabelCSgvM",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
           "name": "loginInput",
           "printedName": "loginInput",
           "children": [
@@ -6280,7 +6529,7 @@
             "IBOutlet",
             "ObjC"
           ],
-          "fixedbinaryorder": 0,
+          "fixedbinaryorder": 2,
           "ownership": 1,
           "hasStorage": true,
           "accessors": [
@@ -6396,7 +6645,7 @@
             "IBOutlet",
             "ObjC"
           ],
-          "fixedbinaryorder": 1,
+          "fixedbinaryorder": 3,
           "ownership": 1,
           "hasStorage": true,
           "accessors": [
@@ -6512,7 +6761,7 @@
             "IBOutlet",
             "ObjC"
           ],
-          "fixedbinaryorder": 2,
+          "fixedbinaryorder": 4,
           "ownership": 1,
           "hasStorage": true,
           "accessors": [
@@ -6597,6 +6846,129 @@
               "declKind": "Accessor",
               "usr": "s:12WeatherStudy19LoginFormControllerC10scrollViewSo08UIScrollG0CSgvM",
               "mangledName": "$s12WeatherStudy19LoginFormControllerC10scrollViewSo08UIScrollG0CSgvM",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "accessorKind": "_modify"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "mainView",
+          "printedName": "mainView",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ImplicitlyUnwrappedOptional",
+              "printedName": "WeatherStudy.GradientView?",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "GradientView",
+                  "printedName": "WeatherStudy.GradientView",
+                  "usr": "c:@M@WeatherStudy@objc(cs)GradientView"
+                }
+              ],
+              "usr": "s:Sq"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "c:@M@WeatherStudy@objc(cs)LoginFormController(py)mainView",
+          "mangledName": "$s12WeatherStudy19LoginFormControllerC8mainViewAA08GradientG0CSgvp",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "HasInitialValue",
+            "Custom",
+            "HasStorage",
+            "IBOutlet",
+            "ObjC"
+          ],
+          "fixedbinaryorder": 5,
+          "hasStorage": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "WeatherStudy.GradientView?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "GradientView",
+                      "printedName": "WeatherStudy.GradientView",
+                      "usr": "c:@M@WeatherStudy@objc(cs)GradientView"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)LoginFormController(im)mainView",
+              "mangledName": "$s12WeatherStudy19LoginFormControllerC8mainViewAA08GradientG0CSgvg",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "ImplicitlyUnwrappedOptional",
+                  "printedName": "WeatherStudy.GradientView?",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "GradientView",
+                      "printedName": "WeatherStudy.GradientView",
+                      "usr": "c:@M@WeatherStudy@objc(cs)GradientView"
+                    }
+                  ],
+                  "usr": "s:Sq"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "c:@M@WeatherStudy@objc(cs)LoginFormController(im)setMainView:",
+              "mangledName": "$s12WeatherStudy19LoginFormControllerC8mainViewAA08GradientG0CSgvs",
+              "moduleName": "WeatherStudy",
+              "implicit": true,
+              "isOpen": true,
+              "declAttributes": [
+                "ObjC"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12WeatherStudy19LoginFormControllerC8mainViewAA08GradientG0CSgvM",
+              "mangledName": "$s12WeatherStudy19LoginFormControllerC8mainViewAA08GradientG0CSgvM",
               "moduleName": "WeatherStudy",
               "implicit": true,
               "isOpen": true,
@@ -6888,6 +7260,48 @@
           "declAttributes": [
             "Custom",
             "ObjC"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "animateTitlesAppearing",
+          "printedName": "animateTitlesAppearing()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12WeatherStudy19LoginFormControllerC22animateTitlesAppearingyyF",
+          "mangledName": "$s12WeatherStudy19LoginFormControllerC22animateTitlesAppearingyyF",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "animateTitleAppearing",
+          "printedName": "animateTitleAppearing()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12WeatherStudy19LoginFormControllerC21animateTitleAppearingyyF",
+          "mangledName": "$s12WeatherStudy19LoginFormControllerC21animateTitleAppearingyyF",
+          "moduleName": "WeatherStudy",
+          "isOpen": true,
+          "declAttributes": [
+            "Custom"
           ],
           "funcSelfKind": "NonMutating"
         },

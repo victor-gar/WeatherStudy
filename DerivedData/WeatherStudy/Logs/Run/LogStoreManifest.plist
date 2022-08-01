@@ -6,6 +6,74 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>042AE086-E905-4B0F-A5A3-494FDA177AE0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>042AE086-E905-4B0F-A5A3-494FDA177AE0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047061.00102794</real>
+			<key>timeStoppedRecording</key>
+			<real>681047070.44960499</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>042AE086-E905-4B0F-A5A3-494FDA177AE0</string>
+		</dict>
+		<key>0A7BE65C-16B0-4C68-BE5C-827DE4615502</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0A7BE65C-16B0-4C68-BE5C-827DE4615502.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047718.91132605</real>
+			<key>timeStoppedRecording</key>
+			<real>681047746.85609603</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>0A7BE65C-16B0-4C68-BE5C-827DE4615502</string>
+		</dict>
 		<key>0BC60C9F-C151-47CD-B58E-A2EA1BE64EB5</key>
 		<dict>
 			<key>className</key>
@@ -39,6 +107,74 @@
 			<string>Run WeatherStudy</string>
 			<key>uniqueIdentifier</key>
 			<string>0BC60C9F-C151-47CD-B58E-A2EA1BE64EB5</string>
+		</dict>
+		<key>0E7ADFBD-B9D2-404E-8EEB-C0617B5EFF20</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0E7ADFBD-B9D2-404E-8EEB-C0617B5EFF20.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681046991.77045906</real>
+			<key>timeStoppedRecording</key>
+			<real>681047004.949579</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>0E7ADFBD-B9D2-404E-8EEB-C0617B5EFF20</string>
+		</dict>
+		<key>118031AF-30F3-4425-9414-5483090B3A28</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>118031AF-30F3-4425-9414-5483090B3A28.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047087.79830098</real>
+			<key>timeStoppedRecording</key>
+			<real>681047097.602777</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>118031AF-30F3-4425-9414-5483090B3A28</string>
 		</dict>
 		<key>1C3EECE7-8247-4A58-BC2E-487A72784B54</key>
 		<dict>
@@ -210,6 +346,176 @@
 			<key>uniqueIdentifier</key>
 			<string>2EFC3E5C-0E02-4FE4-85F2-12FCEB6853B6</string>
 		</dict>
+		<key>32677A8B-C73E-4C88-8BF5-8534DCB40648</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>32677A8B-C73E-4C88-8BF5-8534DCB40648.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681046979.30741894</real>
+			<key>timeStoppedRecording</key>
+			<real>681046991.75465</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>32677A8B-C73E-4C88-8BF5-8534DCB40648</string>
+		</dict>
+		<key>334F5D38-45D7-4456-A21D-DD8D277B21FB</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>334F5D38-45D7-4456-A21D-DD8D277B21FB.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047790.21501195</real>
+			<key>timeStoppedRecording</key>
+			<real>681047809.03937101</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>334F5D38-45D7-4456-A21D-DD8D277B21FB</string>
+		</dict>
+		<key>337E377D-40F3-4EF6-AB03-AF0037A2F108</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>337E377D-40F3-4EF6-AB03-AF0037A2F108.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047664.50910997</real>
+			<key>timeStoppedRecording</key>
+			<real>681047693.94006097</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>337E377D-40F3-4EF6-AB03-AF0037A2F108</string>
+		</dict>
+		<key>3A595E14-859C-4416-A720-C7BE5F2953D7</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3A595E14-859C-4416-A720-C7BE5F2953D7.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047116.47359598</real>
+			<key>timeStoppedRecording</key>
+			<real>681047124.74333203</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>3A595E14-859C-4416-A720-C7BE5F2953D7</string>
+		</dict>
+		<key>3FCBE30C-2860-4F4C-8A14-7F33DF4629F9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>3FCBE30C-2860-4F4C-8A14-7F33DF4629F9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047748.91054904</real>
+			<key>timeStoppedRecording</key>
+			<real>681047768.64639795</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>3FCBE30C-2860-4F4C-8A14-7F33DF4629F9</string>
+		</dict>
 		<key>41FBD1EC-2EA5-44E7-A992-D73F8347F089</key>
 		<dict>
 			<key>className</key>
@@ -278,6 +584,40 @@
 			<key>uniqueIdentifier</key>
 			<string>4C2FDC8C-B078-4CF8-B4ED-580DB54FD174</string>
 		</dict>
+		<key>50428A8A-2644-4A9F-A7BA-C8C18C61C3D9</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>50428A8A-2644-4A9F-A7BA-C8C18C61C3D9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681046947.31082702</real>
+			<key>timeStoppedRecording</key>
+			<real>681046976.243976</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>50428A8A-2644-4A9F-A7BA-C8C18C61C3D9</string>
+		</dict>
 		<key>57398C42-F67F-431C-A707-E162B11B12DB</key>
 		<dict>
 			<key>className</key>
@@ -311,6 +651,108 @@
 			<string>Run WeatherStudy</string>
 			<key>uniqueIdentifier</key>
 			<string>57398C42-F67F-431C-A707-E162B11B12DB</string>
+		</dict>
+		<key>5A0B975C-CE2D-4C5A-BE66-AE839AF80742</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5A0B975C-CE2D-4C5A-BE66-AE839AF80742.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>680971894.71260595</real>
+			<key>timeStoppedRecording</key>
+			<real>681046895.04199505</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>5A0B975C-CE2D-4C5A-BE66-AE839AF80742</string>
+		</dict>
+		<key>641CA6D9-F263-4D42-962D-44BA5A463D35</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>641CA6D9-F263-4D42-962D-44BA5A463D35.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047854.936396</real>
+			<key>timeStoppedRecording</key>
+			<real>681047855.49644804</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>641CA6D9-F263-4D42-962D-44BA5A463D35</string>
+		</dict>
+		<key>6ABDB077-F377-4E54-8A26-A69209C43A19</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6ABDB077-F377-4E54-8A26-A69209C43A19.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047070.44012702</real>
+			<key>timeStoppedRecording</key>
+			<real>681047084.37579501</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>6ABDB077-F377-4E54-8A26-A69209C43A19</string>
 		</dict>
 		<key>6D23E827-A688-4673-A7AE-5739B458D545</key>
 		<dict>
@@ -379,6 +821,142 @@
 			<string>Run WeatherStudy</string>
 			<key>uniqueIdentifier</key>
 			<string>6D7EB7F9-9BE7-4189-9114-7F7C0D60B615</string>
+		</dict>
+		<key>6F9974AC-3C55-4F56-995F-EF2353FFA33A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>6F9974AC-3C55-4F56-995F-EF2353FFA33A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047177.12538004</real>
+			<key>timeStoppedRecording</key>
+			<real>681047195.03368294</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>6F9974AC-3C55-4F56-995F-EF2353FFA33A</string>
+		</dict>
+		<key>7380D411-D22A-4A8C-8572-B88BABF80C34</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7380D411-D22A-4A8C-8572-B88BABF80C34.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681046949.99749303</real>
+			<key>timeStoppedRecording</key>
+			<real>681046976.13440096</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>7380D411-D22A-4A8C-8572-B88BABF80C34</string>
+		</dict>
+		<key>787E28D1-A30B-4B61-8360-327C1270954E</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>787E28D1-A30B-4B61-8360-327C1270954E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047100.922135</real>
+			<key>timeStoppedRecording</key>
+			<real>681047113.100021</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>787E28D1-A30B-4B61-8360-327C1270954E</string>
+		</dict>
+		<key>7D18D468-26E5-4B47-8775-229E032B8BF6</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7D18D468-26E5-4B47-8775-229E032B8BF6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047339.70493996</real>
+			<key>timeStoppedRecording</key>
+			<real>681047371.30214596</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>7D18D468-26E5-4B47-8775-229E032B8BF6</string>
 		</dict>
 		<key>7D1C7F70-4649-4C11-84FE-6D6B49DE6253</key>
 		<dict>
@@ -482,6 +1060,74 @@
 			<key>uniqueIdentifier</key>
 			<string>8A59FE07-6C62-45DE-BDFD-7BD00D594D07</string>
 		</dict>
+		<key>8C5FC34E-120D-4247-B354-27D51B92FD22</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8C5FC34E-120D-4247-B354-27D51B92FD22.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047132.89761198</real>
+			<key>timeStoppedRecording</key>
+			<real>681047175.76607001</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>8C5FC34E-120D-4247-B354-27D51B92FD22</string>
+		</dict>
+		<key>8C901A1C-BC22-40FC-993F-0069297B7E8C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8C901A1C-BC22-40FC-993F-0069297B7E8C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047833.42891502</real>
+			<key>timeStoppedRecording</key>
+			<real>681047840.61452103</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>8C901A1C-BC22-40FC-993F-0069297B7E8C</string>
+		</dict>
 		<key>91EDCF76-4B7F-4D77-AC8D-025D2229BBA9</key>
 		<dict>
 			<key>className</key>
@@ -515,6 +1161,40 @@
 			<string>Run WeatherStudy</string>
 			<key>uniqueIdentifier</key>
 			<string>91EDCF76-4B7F-4D77-AC8D-025D2229BBA9</string>
+		</dict>
+		<key>923808C1-F04C-4DE3-80A1-6DC74451CB7F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>923808C1-F04C-4DE3-80A1-6DC74451CB7F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047810.23939002</real>
+			<key>timeStoppedRecording</key>
+			<real>681047831.25005996</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>923808C1-F04C-4DE3-80A1-6DC74451CB7F</string>
 		</dict>
 		<key>971F7D3E-A1B4-42A7-BF7B-0D13780369BB</key>
 		<dict>
@@ -550,6 +1230,108 @@
 			<key>uniqueIdentifier</key>
 			<string>971F7D3E-A1B4-42A7-BF7B-0D13780369BB</string>
 		</dict>
+		<key>9E7A0E54-CF83-46D2-B00C-D7AEB3EB77E1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9E7A0E54-CF83-46D2-B00C-D7AEB3EB77E1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047255.48921001</real>
+			<key>timeStoppedRecording</key>
+			<real>681047263.01022995</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>9E7A0E54-CF83-46D2-B00C-D7AEB3EB77E1</string>
+		</dict>
+		<key>A90B3684-80CD-4584-ABF4-1659A9725AE1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A90B3684-80CD-4584-ABF4-1659A9725AE1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047697.09621096</real>
+			<key>timeStoppedRecording</key>
+			<real>681047716.69480801</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>A90B3684-80CD-4584-ABF4-1659A9725AE1</string>
+		</dict>
+		<key>A9F8DFDE-BCF4-4F9B-933C-467D90F27B1F</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A9F8DFDE-BCF4-4F9B-933C-467D90F27B1F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047195.02251101</real>
+			<key>timeStoppedRecording</key>
+			<real>681047206.639992</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>A9F8DFDE-BCF4-4F9B-933C-467D90F27B1F</string>
+		</dict>
 		<key>AE006192-70AE-44EE-9CC1-E55A4217F19A</key>
 		<dict>
 			<key>className</key>
@@ -583,6 +1365,40 @@
 			<string>Run WeatherStudy</string>
 			<key>uniqueIdentifier</key>
 			<string>AE006192-70AE-44EE-9CC1-E55A4217F19A</string>
+		</dict>
+		<key>B0FF7D61-6112-4C4A-AFBB-89A933A70118</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B0FF7D61-6112-4C4A-AFBB-89A933A70118.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047124.72614098</real>
+			<key>timeStoppedRecording</key>
+			<real>681047131.944677</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>B0FF7D61-6112-4C4A-AFBB-89A933A70118</string>
 		</dict>
 		<key>B73A50E6-71D6-4BBF-9A1F-49CF10DCFBD9</key>
 		<dict>
@@ -652,6 +1468,40 @@
 			<key>uniqueIdentifier</key>
 			<string>B8CAAD93-7EFD-4D02-9D20-647BB2080567</string>
 		</dict>
+		<key>C05156C7-A074-4DF1-B8A9-B12196392D63</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C05156C7-A074-4DF1-B8A9-B12196392D63.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047263.03699994</real>
+			<key>timeStoppedRecording</key>
+			<real>681047324.35765505</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>C05156C7-A074-4DF1-B8A9-B12196392D63</string>
+		</dict>
 		<key>C39047FC-8032-43FB-BE17-F07AE8F9789F</key>
 		<dict>
 			<key>className</key>
@@ -720,6 +1570,74 @@
 			<key>uniqueIdentifier</key>
 			<string>C5CC2F7B-0E00-4F89-B118-FDC83D6E45C0</string>
 		</dict>
+		<key>C67421DA-66B6-44A9-97C3-3C393C697146</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C67421DA-66B6-44A9-97C3-3C393C697146.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047841.80404103</real>
+			<key>timeStoppedRecording</key>
+			<real>681047854.95076501</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>C67421DA-66B6-44A9-97C3-3C393C697146</string>
+		</dict>
+		<key>CAFCC435-861B-4843-B4F6-5D1D195BC28D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CAFCC435-861B-4843-B4F6-5D1D195BC28D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047023.83712995</real>
+			<key>timeStoppedRecording</key>
+			<real>681047057.52739406</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>CAFCC435-861B-4843-B4F6-5D1D195BC28D</string>
+		</dict>
 		<key>D113FCD0-2F50-4227-8A85-D1F4D20D168F</key>
 		<dict>
 			<key>className</key>
@@ -753,6 +1671,74 @@
 			<string>Run WeatherStudy</string>
 			<key>uniqueIdentifier</key>
 			<string>D113FCD0-2F50-4227-8A85-D1F4D20D168F</string>
+		</dict>
+		<key>D3A44CB4-43D1-4541-ABA3-51867B302C4C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D3A44CB4-43D1-4541-ABA3-51867B302C4C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681046916.06605399</real>
+			<key>timeStoppedRecording</key>
+			<real>681046945.15292203</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>D3A44CB4-43D1-4541-ABA3-51867B302C4C</string>
+		</dict>
+		<key>D3C76DB5-D576-48C1-A551-8CDE19F8360D</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D3C76DB5-D576-48C1-A551-8CDE19F8360D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047769.88064396</real>
+			<key>timeStoppedRecording</key>
+			<real>681047788.00989199</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>D3C76DB5-D576-48C1-A551-8CDE19F8360D</string>
 		</dict>
 		<key>D5C1DAE0-4F32-4048-9D8E-E8E13F6D9E73</key>
 		<dict>
@@ -889,6 +1875,74 @@
 			<string>Run WeatherStudy</string>
 			<key>uniqueIdentifier</key>
 			<string>EC07FDBF-4331-4A44-ADC8-BF0D0F94F3AF</string>
+		</dict>
+		<key>F4A484BD-AB47-4202-A747-3A2C634B5668</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F4A484BD-AB47-4202-A747-3A2C634B5668.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681047006.10081398</real>
+			<key>timeStoppedRecording</key>
+			<real>681047023.84586</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>F4A484BD-AB47-4202-A747-3A2C634B5668</string>
+		</dict>
+		<key>F7DB8E74-00F9-45D4-820E-4712DFF42610</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F7DB8E74-00F9-45D4-820E-4712DFF42610.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WeatherStudy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WeatherStudy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run WeatherStudy</string>
+			<key>timeStartedRecording</key>
+			<real>681046902.11720395</real>
+			<key>timeStoppedRecording</key>
+			<real>681046913.55416596</real>
+			<key>title</key>
+			<string>Run WeatherStudy</string>
+			<key>uniqueIdentifier</key>
+			<string>F7DB8E74-00F9-45D4-820E-4712DFF42610</string>
 		</dict>
 	</dict>
 </dict>

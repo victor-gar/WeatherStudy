@@ -282,9 +282,12 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layer
 
 SWIFT_CLASS("_TtC12WeatherStudy19LoginFormController")
 @interface LoginFormController : UIViewController
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified loginTitleView;
+@property (nonatomic, weak) IBOutlet UILabel * _Null_unspecified passwordTitleView;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified loginInput;
 @property (nonatomic, weak) IBOutlet UITextField * _Null_unspecified passwordInput;
 @property (nonatomic, weak) IBOutlet UIScrollView * _Null_unspecified scrollView;
+@property (nonatomic, strong) IBOutlet GradientView * _Null_unspecified mainView;
 - (IBAction)loginButtonPressed:(id _Nonnull)sender;
 - (void)keyboardWasShowWithNotification:(NSNotification * _Nonnull)notification;
 - (void)keyboardWillbeHiddenWithNotification:(NSNotification * _Nonnull)notification;
